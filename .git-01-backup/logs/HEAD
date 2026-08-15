@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 8d28d20028a26b6df2ae8265fae1a4a072c86b69 Omar Zoghayyer <ozoghayyer11@gmail.com> 1786764895 -0700	commit (initial): Initial commit
+8d28d20028a26b6df2ae8265fae1a4a072c86b69 f4b4b5901de0cd0fbb6bf289e4d300a58d2a1218 Omar Zoghayyer <ozoghayyer11@gmail.com> 1786764906 -0700	pull --rebase origin main (start): checkout f4b4b5901de0cd0fbb6bf289e4d300a58d2a1218
+f4b4b5901de0cd0fbb6bf289e4d300a58d2a1218 eb4db0e0eac5cfb94b5c15857dc4f09709c7f317 Omar Zoghayyer <ozoghayyer11@gmail.com> 1786764906 -0700	pull --rebase origin main (pick): Initial commit
+eb4db0e0eac5cfb94b5c15857dc4f09709c7f317 eb4db0e0eac5cfb94b5c15857dc4f09709c7f317 Omar Zoghayyer <ozoghayyer11@gmail.com> 1786764906 -0700	pull --rebase origin main (finish): returning to refs/heads/main
+eb4db0e0eac5cfb94b5c15857dc4f09709c7f317 c656a9500ba49e80aa7fe60f3a12eaa49b1b4b1d Omar Zoghayyer <ozoghayyer11@gmail.com> 1786765001 -0700	commit: Update README
+c656a9500ba49e80aa7fe60f3a12eaa49b1b4b1d afd6964a5e6ea935a4070cc5252c9a72e6f3d58a Omar Zoghayyer <ozoghayyer11@gmail.com> 1786765122 -0700	commit: Normalize README dash (fix encoding)
